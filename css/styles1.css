@@ -36,6 +36,10 @@ body nav{
   height: 180%;
   width:240%;
 }
+
+.col-sm-4{
+margin-left:13%;
+}
 .container-fluid { padding: 0;}
 
 .h  {
